@@ -18,6 +18,7 @@ public class Exercise14 {
         System.out.println();
 
         d.getDetails();
+
     }
 
 }
